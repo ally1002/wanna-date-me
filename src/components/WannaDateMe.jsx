@@ -26,7 +26,7 @@ function WannaDateMe() {
                 className="button"
                 id="yes"
                 onClick={gotIt}
-            >Sim ❤
+            >Sim <span className='heart'> ❤ </span>
             </button>
             <button
                 className="button"

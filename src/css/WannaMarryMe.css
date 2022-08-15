@@ -37,6 +37,10 @@ html, body {
         height: 50px;
         font-size: 1.5em;
     }
+
+    .heart {
+        display: none;
+    }
 }
 
 #yes {
